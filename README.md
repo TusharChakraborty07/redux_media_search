@@ -1,16 +1,29 @@
-# React + Vite
+# 🎬 MediaLens - Image & Video Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+MediaLens is a modern React application that allows users to search and explore **images and videos** in real-time using external APIs. Built with **React, Redux Toolkit, and Tailwind CSS**, it provides a smooth and responsive UI experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🔍 Search images & videos instantly
+- 📸 Toggle between Photos and Videos
+- ⚡ Fast API integration
+- 🎯 Redux Toolkit state management
+- 🎨 Clean and responsive UI with Tailwind CSS
+- 📦 Loading, error, and empty states handled
+- 🧩 Component-based architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React JS
+- Redux Toolkit
+- Tailwind CSS
+- Axios
+- Pexels API (Images & Videos)
+
+---
+
+## 📁 Project Structure
